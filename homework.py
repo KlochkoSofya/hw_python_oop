@@ -33,7 +33,7 @@ class Calculator:
                 stats_day += record.amount
         return stats_day
  
- #how much already taken/eaten for week
+    #how much already taken/eaten for week
 
     def get_week_stats(self):
         stats_week = 0
